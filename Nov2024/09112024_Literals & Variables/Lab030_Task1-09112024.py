@@ -3,8 +3,8 @@
 Num1= int(input("Enter Number 1 ->"))
 Num2= int(input("Enter Number 2 ->"))
 
-Remain = Num1%Num2
-Quot = Num1//Num2
+Re = Num1%Num2
+Qu = Num1//Num2
 
-print("Reminder-> ", Remain)
-print("Quotient -> ",Quot)
+print("Reminder-> ", Re)
+print("Quotient -> ",Qu)
