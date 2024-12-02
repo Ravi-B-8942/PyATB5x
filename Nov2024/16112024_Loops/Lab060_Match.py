@@ -1,3 +1,4 @@
+
 browser_name = input("Enter the browser name\n")
 match browser_name:
     case "firefox":
